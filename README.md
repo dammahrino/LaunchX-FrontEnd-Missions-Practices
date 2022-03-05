@@ -1,4 +1,4 @@
-# LaunchX-FrontEnd-Missions-Practices
+# [Launch X] Front End Missions' Practices
 
 *Hello Space Explorer!*
 
