@@ -8,4 +8,4 @@ Add a little bit of CSS to the skeleton and we can improve its appearance by a l
 
 Without further ado, here's the link to the *Pâttiserie*.
 
-[🍰 La Pâttiserie de Khazelt](https://github.com/dammahrino/LaunchX-FrontEnd-Missions-Practices/tree/main/Week-2) 
+[🍰 La Pâttiserie de Khazelt](https://lapattiseriedekhazelt.z19.web.core.windows.net/) 
